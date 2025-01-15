@@ -17,3 +17,6 @@ node_modules
 
 #readme.md is a file that is not necessary for the project to run
 README.md
+
+#Ignore lock yaml file
+pnpm-lock.yaml
